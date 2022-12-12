@@ -1,8 +1,8 @@
 class Car{
-    Hashcode="";
+  //  Hashcode="";
     constructor() {
         this.price = [];
-        Hashcode=this.Hashcode;
+       // Hashcode=this.Hashcode;
         
     }
 
